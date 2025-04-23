@@ -9,7 +9,7 @@ for (let t = 1; t <= tentativas; t++) {
     } else if (t === tentativas) {
       alert(`Suas chances acabaram! O número certo era ${numeroCerto}.`);
     } else {
-      alert("Tente outro novamente!");
+      alert(`Tente novamente! Dica: O número certo é ${chute < numeroCerto ? 'maior' : 'menor'} que ${chute}.`);
     }
   } else {
     alert("Insira um numero valido!");
