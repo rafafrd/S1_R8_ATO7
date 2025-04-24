@@ -1,6 +1,6 @@
 # Desafios JavaScript
 
-Dois desafios simples em JavaScript para praticar lógica de programação
+Dois desafios simples em JavaScript para praticar lógica de programação com **laços**
 
 ## Desafio 1: Números Pares em um Intervalo
 
